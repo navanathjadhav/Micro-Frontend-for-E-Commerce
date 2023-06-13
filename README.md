@@ -15,6 +15,9 @@ Thanks.
 
 Get a [PDF version](./Micro_Frontend_for_E_Commerce.pdf).
 
+## What is Micro Frontend?
+Micro Frontend is an architectural approach where a frontend application is decomposed into smaller, self-contained modules that are developed and deployed independently. Each module, known as a Micro Frontend, focuses on a specific functionality and can be built using different technologies. Micro Frontends can be seamlessly integrated to form a cohesive user interface, enabling teams to work independently, improve scalability, and enhance the maintainability of complex frontend systems.
+
 ## User Interface
 
 The User Interface (UI) layer is responsible for presenting the application's visual components to users and handling their interactions. It ensures a smooth and intuitive experience by providing an appealing and responsive interface.
